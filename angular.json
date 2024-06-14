@@ -35,8 +35,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "src/assets/scss/style.scss"
+              "/Users/adityaraj/Desktop/Lucifer/ang_dashboard_3/src/styles.scss",
+              "/Users/adityaraj/Desktop/Lucifer/ang_dashboard_3/src/assests/scss/style.scss"
             ],
             "scripts": []
           },
