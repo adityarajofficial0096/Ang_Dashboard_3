@@ -1,25 +1,25 @@
 @use "@angular/material" as mat;
 @include mat.core();
 
-@import "./assests/scss/variables";
-@import "./assests/scss/layouts/transitions";
-@import "./assests/scss/helpers/color";
-@import "./assests/scss/helpers/icon-size";
+@import "/src/assests/scss/variables";
+@import "/src/assests/scss/layouts/transitions";
+@import "/src/assests/scss/helpers/color";
+@import "/src/assests/scss/helpers/icon-size";
 
 //Theme colors
 
-@import "./assests/scss/themecolors/default_theme";
+@import "/src/assests/scss/themecolors/default_theme";
 @include mat.all-component-themes($bluetheme);
 
 //container layout
-@import "./assests/scss/overrides/materialoverrides";
-@import "./assests/scss/container";
-@import "./assests/scss/layouts/layouts";
-@import "./assests/scss/grid/grid";
-@import "./assests/scss/helpers/custom-flex";
-@import "./assests/scss/helpers/index";
+@import "/src/assests/scss/overrides/materialoverrides";
+@import "/src/assests/scss/container";
+@import "/src/assests/scss/layouts/layouts";
+@import "/src/assests/scss/grid/grid";
+@import "/src/assests/scss/helpers/custom-flex";
+@import "/src/assests/scss/helpers/index";
 
 
 // pages
-@import "./assests/scss/pages/dashboards";
-@import "./assests/scss/pages/auth";
+@import "/src/assests/scss/pages/dashboards";
+@import "/src/assests/scss/pages/auth";
