@@ -32,7 +32,7 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assests"
             ],
             "styles": [
               "/Users/adityaraj/Desktop/Lucifer/ang_dashboard_3/src/styles.scss",
@@ -96,7 +96,7 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assests"
             ],
             "styles": [
               "src/styles.scss"
