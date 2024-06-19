@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://gitlab.com/adityarajofficial0096/ang_dashboard_3.git
+	fetch = +refs/*:refs/*
+	mirror = true
+[remote "github"]
+	url = https://github.com/adityarajofficial0096/Ang_Dashboard_3.git
+	fetch = +refs/heads/*:refs/remotes/github/*
